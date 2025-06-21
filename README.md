@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me
+
+Hi there 👋
+
+My name is sashisus99.
+
+I'm Japanease.
+
+Best regards!
 
 <!--
 **sashisus99/sashisus99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
