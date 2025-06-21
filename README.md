@@ -6,6 +6,10 @@ My name is sashisus99.
 
 I'm Japanease.
 
+This is Account for learning outputs.
+
+Since 2025/6/16.
+
 Best regards!
 
 <!--
